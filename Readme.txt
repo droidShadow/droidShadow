@@ -1,4 +1,1 @@
-Testing a new in GitHub
-i am new
-
-Have corrected GitHub spelling in line 1 and added this line. Also adding juptyper notebook.
+Just create a sample workspace and trying to have hands on GitHub
